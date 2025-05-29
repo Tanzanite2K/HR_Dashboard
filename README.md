@@ -2,7 +2,7 @@
 
 The **HR Dashboard Management System** is a powerful web-based platform designed to help HR teams efficiently manage employee data, monitor performance, and make data-driven decisions. It features a centralized HR Dashboard that displays key metrics like total employees, average ratings, bookmarked talents, and top performers with search and filter options for quick access. The Analytics Dashboard offers visual insights into department-wise employee distribution, average ratings, and top-performing departments, enabling strategic planning. Additionally, the Bookmarked Employees section allows HRs to save high-potential individuals by department, view their details, and perform actions like promotions or project assignments, ensuring streamlined talent management and organizational growth.
 
-#Compile & Run
+# Compile & Run
  - npm install
  - npm run dev
 
